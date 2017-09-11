@@ -1,0 +1,6 @@
+c:\users\mahin\documents\visual studio 2017\Projects\ConsoleAppPos\ConsoleAppPos\bin\Debug\ConsoleAppPos.exe.config
+c:\users\mahin\documents\visual studio 2017\Projects\ConsoleAppPos\ConsoleAppPos\bin\Debug\ConsoleAppPos.exe
+c:\users\mahin\documents\visual studio 2017\Projects\ConsoleAppPos\ConsoleAppPos\bin\Debug\ConsoleAppPos.pdb
+c:\users\mahin\documents\visual studio 2017\Projects\ConsoleAppPos\ConsoleAppPos\obj\Debug\ConsoleAppPos.csprojResolveAssemblyReference.cache
+c:\users\mahin\documents\visual studio 2017\Projects\ConsoleAppPos\ConsoleAppPos\obj\Debug\ConsoleAppPos.exe
+c:\users\mahin\documents\visual studio 2017\Projects\ConsoleAppPos\ConsoleAppPos\obj\Debug\ConsoleAppPos.pdb
