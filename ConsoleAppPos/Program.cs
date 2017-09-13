@@ -10,8 +10,8 @@ namespace ConsoleAppPos
     {
         static void Main(string[] args)
         {
-            Pos pos = new Pos();
-            pos.Start();
+            User user = new User();
+            user.UserCheck();
 
             Console.ReadKey();
         }
